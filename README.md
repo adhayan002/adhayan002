@@ -16,7 +16,7 @@
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Visual Studio code | Git
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhayan002)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhayan002&show_icons=true)]
 
 <br>
 <div style="display: flex;">
