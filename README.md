@@ -41,8 +41,9 @@
 </br>
 </div>
 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhayan002&layout=compact&text_color=daf7dc&bg_color=151515)]
-
+</br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
