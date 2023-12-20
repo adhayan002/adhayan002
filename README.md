@@ -17,7 +17,7 @@
 - 🔧 &nbsp; Visual Studio code | Git
 
 <br>
-![Adhayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhayan002&show_icons=true&theme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhayan002)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
