@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m planning to expand my expertise into AWS and Cloud Solutions
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying BE Information Science And Engineering
 - 💼 &nbsp; MERN Stack Developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
