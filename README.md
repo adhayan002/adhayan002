@@ -22,6 +22,7 @@
 </br>
 
 <br>
+<div style="display: flex;">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 </br>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhayan002&layout=compact&text_color=daf7dc&bg_color=151515)]
 
