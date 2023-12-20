@@ -35,8 +35,9 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-</br>
 </div>
+</br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhayan002&layout=compact&text_color=daf7dc&bg_color=151515)]
 
